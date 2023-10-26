@@ -22,3 +22,4 @@ console.log(num1 + num2);
   var z = x + y;
   y = 5 + 2*x;
   x = y;
+  //find the value of z
