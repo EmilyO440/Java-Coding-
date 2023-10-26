@@ -14,3 +14,11 @@ var num2 = 2;
 //add the variables and display using console.log
 console.log(num1 + num2);
 
+/*What is the value of z ?*/
+
+  var x = 5;
+  var y = 6;
+  x = 3 + y;
+  var z = x + y;
+  y = 5 + 2*x;
+  x = y;
