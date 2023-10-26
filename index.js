@@ -14,12 +14,12 @@ var num2 = 2;
 //add the variables and display using console.log
 console.log(num1 + num2);
 
-/*What is the value of z ?*/
+/*
+Question 7:Given the variables num1 and num2. Print the quotient of num1 over num2 to the console using console.log()
+*/
 
-  var x = 5;
-  var y = 6;
-  x = 3 + y;
-  var z = x + y;
-  y = 5 + 2*x;
-  x = y;
-  //find the value of z
+var num1 = 45;
+var num2 = 15;
+
+//divide the variables and display using console.log
+console.log(num1 / num2);
