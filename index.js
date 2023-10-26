@@ -25,4 +25,5 @@ var z = x + y;
 y = 5 + 2*x;
 x = y;
 
-//find the value of z and display
+//find the value of z and display using console.log
+console.log(z = x + y);
