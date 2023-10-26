@@ -23,3 +23,13 @@ var num2 = 15;
 
 //divide the variables and display using console.log
 console.log(num1 / num2);
+
+/*
+Question 9:Given the variables num1 and num2, use console.log() to print the product of num1 and num2
+*/
+
+var num1 = 1300;
+var num2 = 1200;
+
+//find the product of the two variables and display using console.log
+console.log(num1 * num2);
