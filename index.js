@@ -34,12 +34,8 @@ var num2 = 1200;
 //find the product of the two variables and display using console.log
 console.log(num1 * num2);
 
-/* 
-Question 12: What is the value of z ?
-*/
-
-var x = 25;
-
-"z = " + (x*2);
-
-//find the value of z and display using console.log
+if (45 > 45){
+  console.log("Poodles");
+} else {
+  console.log("Labradors");
+}
