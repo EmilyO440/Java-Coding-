@@ -39,3 +39,15 @@ if (45 > 45){
 } else {
   console.log("Labradors");
 }
+
+let number = 28;
+
+if (number % 3 == 0 && number % 7 == 0) {
+   console.log("The number is divisible by both 3 and 7.");
+} else if (number % 3 == 0) {
+   console.log("The number is divisible by 3.");
+} else if (number % 7 == 0) {
+   console.log("The number is divisible by 7.");
+} else {
+   console.log("The number is not divisible by 3 or 7.");
+}
