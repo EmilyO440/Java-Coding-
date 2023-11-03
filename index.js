@@ -80,3 +80,11 @@ var num1 = 3;
  } else {
           console.log("C");
  }
+
+var num1 = parseInt(input[0]);
+var num2 = parseInt(input[1]);
+var num3 = parseInt(input[2]);
+var num4 = parseInt(input[3]);
+
+if (num1 >= num2);
+//display if true on console.log
