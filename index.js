@@ -51,3 +51,13 @@ if (number % 3 == 0 && number % 7 == 0) {
 } else {
    console.log("The number is not divisible by 3 or 7.");
 }
+
+var num1 = 3;
+      var num2 = 5;
+      if (num1 == num2) {
+          console.log("A");
+      } else if (num1 > num2) { 
+          console.log("B");
+      } else {
+          console.log("C");
+      }
