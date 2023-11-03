@@ -69,3 +69,14 @@ var num1 = 3;
       } else {
          console.log("Parrot");
       }
+
+       var num1 = 25;
+ var num2 = 18;
+
+ if (num1 == num2){
+          console.log("A");
+ } else if (num1 > num2){ 
+          console.log("B");
+ } else {
+          console.log("C");
+ }
