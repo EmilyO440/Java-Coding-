@@ -61,3 +61,11 @@ var num1 = 3;
       } else {
           console.log("C");
       }
+
+      var num1 = 37;
+
+      if (num1) {
+         console.log("Parakeet");
+      } else {
+         console.log("Parrot");
+      }
