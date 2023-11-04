@@ -81,6 +81,9 @@ var num1 = 3;
           console.log("C");
  }
 
+/*
+Question 5
+*/
 var num1 = parseInt(input[0]);
 var num2 = parseInt(input[1]);
 var num3 = parseInt(input[2]);
