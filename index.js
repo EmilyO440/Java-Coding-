@@ -94,5 +94,7 @@ var num2 = parseInt(input[1]);
 var num3 = parseInt(input[2]);
 var num4 = parseInt(input[3]);
 
-if(num1 >= num2);
+if(num1 >= num2);{
+   "num1 is greater than or equal to num2"
+} 
  
