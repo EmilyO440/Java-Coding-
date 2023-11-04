@@ -97,4 +97,19 @@ var num4 = parseInt(input[3]);
 if(num1 >= num2);{
    "num1 is greater than or equal to num2"
 } 
+
+let age = 21;
+ let isAdult = false;
+
+ if (age >= 13) {
+     if (age >= 65) {
+        isAdult = true;
+        console.log("You pay the Senior Citizen price of $25!");
+     } else {
+        isAdult = true;
+        console.log("You pay the full ticket price of $35!");
+     }
+ } else {
+    console.log("You pay the Child ticket price of $15!");
+ }
  
