@@ -113,3 +113,12 @@ let age = 21;
     console.log("You pay the Child ticket price of $15!");
  }
  
+ /*
+ Question 14: What is the expected output?
+ */
+
+var a = 2;
+var b = 15;
+var c = 9;
+console.log(a >= b || a <= c &&  a + c > b);
+//Display the output using console.log
