@@ -97,6 +97,7 @@ var num4 = parseInt(input[3]);
 if(num1 >= num2);{
    "num1 is greater than or equal to num2"
 } 
+//
 
 let age = 21;
  let isAdult = false;
@@ -112,6 +113,7 @@ let age = 21;
  } else {
     console.log("You pay the Child ticket price of $15!");
  }
+ //
  
  /*
  Question 14: What is the expected output?
