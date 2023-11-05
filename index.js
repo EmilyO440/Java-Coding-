@@ -108,3 +108,13 @@ var b = 15;
 var c = 9;
 console.log(a >= b || a <= c &&  a + c > b);
 //Display the output using console.log
+
+/*
+Question 16: What will the following Boolean expression evaluate to?
+*/
+
+  var x = true;
+  var y = false;
+
+  console.log(x && !y);
+  //Display the output of the two expressions using console.log
