@@ -81,22 +81,6 @@ var num1 = 3;
           console.log("C");
  }
 
-/*
-Question 13:Create a nested if statement (the second if statement will only run if the first one evaluates to true) that does the following:
-The first if statement will check to see if num1 is greater than or equal to num2 .
-If the first if statement evaluates to true, then check to see if num3 is greater than or equal to num4.
-If both conditions are true, print: "Both statements are true."
-If the first condition is true but the second is false, print: "The first statement is true, but the second is not."
-In all cases, after the outer if statement, print "Program ended." to the console.
-*/
-var num1 = parseInt(input[0]);
-var num2 = parseInt(input[1]);
-var num3 = parseInt(input[2]);
-var num4 = parseInt(input[3]);
-
-if(num1 >= num2);{
-   "num1 is greater than or equal to num2"
-} 
 //
 
 let age = 21;
